@@ -83,5 +83,6 @@ function reiniciarJogo(){//resetando o App
     limparCampo();
     tentativas=1;
     exibirMensagemInicial();
+    
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
