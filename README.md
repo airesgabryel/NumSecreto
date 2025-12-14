@@ -24,9 +24,6 @@ Este projeto é um jogo simples onde o jogador deve adivinhar um número secreto
 5.  Após acertar, clique em "Novo jogo" para começar novamente.
 
 ## 🛠️ Tecnologias Utilizadas
-
-O projeto foi construído utilizando as seguintes tecnologias:
-
 * **HTML5:** Estrutura semântica da página.
 * **CSS3:** Estilização, layout (Flexbox) e animações.
 * **JavaScript:** Lógica do jogo, manipulação do DOM e interatividade.
