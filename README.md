@@ -15,8 +15,8 @@ Este projeto é um jogo simples onde o jogador deve adivinhar um número secreto
 -   **Feedback por Voz:** Utiliza a Web Speech API para narrar as mensagens na tela (se suportado pelo navegador).
 -   **Design Responsivo (básico):** A interface foi construída para se adaptar a diferentes tamanhos de tela.
 
-## 🎮 Como Jogar
 
+## 🎮 Como Jogar
 1.  Abra o arquivo `index.html` em seu navegador de preferência.
 2.  Digite um número entre 1 e 10 no campo de entrada.
 3.  Clique no botão "Chutar".
