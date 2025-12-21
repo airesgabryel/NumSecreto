@@ -31,9 +31,7 @@ Este projeto é um jogo simples onde o jogador deve adivinhar um número secreto
 * **Web Speech API:** Para a funcionalidade de narração por voz.
 
 ## ✍️ Autor
-
 **Gabryel Aires da Silva**
-
 * **Email:** 56gabryel@gmail.com
 * **LinkedIn:** [https://www.linkedin.com/in/airesgabryel/](https://www.linkedin.com/in/airesgabryel/)
 * **GitHub:** [https://github.com/AiresGabryel](https://github.com/AiresGabryel)
