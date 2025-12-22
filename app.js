@@ -31,7 +31,7 @@ function exibirMensagemInicial(){
 
 exibirMensagemInicial();
 
-//função é responsável por determinar alguma ação dentro do código
+
 //por padrão, funções tem apenas 1 responsabilidade
 function verificarChute(){ 
     let chute = document.querySelector('input').value 
