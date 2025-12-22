@@ -33,6 +33,7 @@ function exibirMensagemInicial(){
 exibirMensagemInicial();
 
 
+
 //por padrão, funções tem apenas 1 responsabilidade
 function verificarChute(){ 
     let chute = document.querySelector('input').value 
