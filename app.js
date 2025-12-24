@@ -19,12 +19,6 @@ function exibirTextoNaTela(tag, texto){
 
 
 
-//atribuindo texto a tags do html:
-//let titulo = document.querySelector('h1');//seleciona o H1
-//titulo.innerHTML = 'Jogo do número secreto';//dentro do html daquele título
-// let paragrafo = document.querySelector('p');
-// paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
-
 function exibirMensagemInicial(){
     exibirTextoNaTela('h1', 'Jogo do número secreto'); // usando função em h1 sem retorno
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 10'); // usando função em p sem retorno
@@ -33,8 +27,6 @@ function exibirMensagemInicial(){
 exibirMensagemInicial();
 
 
-
-//por padrão, funções tem apenas 1 responsabilidade
 function verificarChute(){ 
     let chute = document.querySelector('input').value 
 
