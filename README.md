@@ -17,11 +17,7 @@ Este projeto é um jogo simples onde o jogador deve adivinhar um número secreto
 
 
 ## 🎮 Como Jogar
-1.  Abra o arquivo `index.html` em seu navegador de preferência.
-2.  Digite um número entre 1 e 10 no campo de entrada.
-3.  Clique no botão "Chutar".
-4.  Siga as dicas na tela até descobrir o número secreto.
-5.  Após acertar, clique em "Novo jogo" para começar novamente.
+1.  Abra o link [Jogo do Número Secreto](https://numero-secreto-pi-nine.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5:** Estrutura semântica da página.
