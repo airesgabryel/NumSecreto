@@ -1,4 +1,4 @@
-# Número Secreto, the game.
+# Número Secreto (game).
 
 Um divertido e interativo jogo de adivinhação desenvolvido com HTML, CSS e JavaScript. O objetivo é adivinhar um número secreto gerado aleatoriamente.
 
